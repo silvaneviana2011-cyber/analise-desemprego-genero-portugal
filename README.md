@@ -28,15 +28,4 @@ Apesar da redução global do desemprego, a taxa feminina manteve-se consistente
 
 
 
-## 📊 Análise do Desemprego por Género
 
-Análise da diferença entre homens e mulheres desempregados em Portugal entre 2014 e 2024.
-
-</td>
-<td>
-
-<img src="desemprego_genero2.png" width="300"/>
-
-</td>
-</tr>
-</table>
