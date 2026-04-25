@@ -24,7 +24,23 @@ Apesar da redução global do desemprego, a taxa feminina manteve-se consistente
 - Python
 - Pandas
 - Power BI
-- image (pixabay png dandelian_tea_women/panjoycz-businessman) 
+- image (pixabay png dandelian_tea_women/panjoycz-businessman)
+<table>
+<tr>
+<td>
+
+## 📊 Análise do Desemprego por Género
+
+Análise da diferença entre homens e mulheres no desemprego em Portugal (2014–2024).
+
+</td>
+<td>
+
+<img src="Projeto desemprego.png" width="400"/>
+
+</td>
+</tr>
+</table>
 
 
 
