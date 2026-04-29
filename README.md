@@ -1,3 +1,15 @@
+# 📊 Análise do Desemprego por Género em Portugal
+
+<p align="center">
+  <img src="projeto_desemprego.png" width="700"/>
+</p>  
+
+## 📊 Insight Principal
+
+O desemprego feminino manteve-se consistentemente superior ao masculino entre 2014 e 2024, evidenciando
+uma desigualdade persistente no mercado de trabalho.
+
+
 ## 📌 Introdução
 
 O desemprego é um dos principais indicadores económicos e sociais de um país. Em Portugal, a análise da taxa de 
@@ -18,6 +30,12 @@ O principal objetivo deste projeto é:
 - Visualizar os dados através de um dashboard interativo em Power BI  
 
 ---
+
+## 🛠️ Tecnologias utilizadas
+
+- Python (Pandas)
+- Power BI
+- GitHub
 
 ## ⚙️ Desenvolvimento
 
@@ -41,15 +59,6 @@ Os dados tratados foram importados para o : Ficheiro csv, onde foi desenvolvido 
 - Comparação entre géneros  
 
 ---
-
-## Preview
-
-![Dashboard](projeto_desemprego.png)
-
-
-
-
-
 
 ## 📊 Conclusão
 
