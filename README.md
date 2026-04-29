@@ -1,13 +1,15 @@
+## 📊 Insight Principal
+
+O desemprego feminino manteve-se consistentemente superior ao masculino entre 2014 e 2024, evidenciando
+uma desigualdade persistente no mercado de trabalho.
+
+
 # 📊 Análise do Desemprego por Género em Portugal
 
 <p align="center">
   <img src="projeto_desemprego.png" width="700"/>
 </p>  
 
-## 📊 Insight Principal
-
-O desemprego feminino manteve-se consistentemente superior ao masculino entre 2014 e 2024, evidenciando
-uma desigualdade persistente no mercado de trabalho.
 
 
 ## 📌 Introdução
