@@ -42,23 +42,9 @@ Os dados tratados foram importados para o : Ficheiro csv, onde foi desenvolvido 
 
 ---
 
-## 📷 Preview
+## Preview
 
-<p align="center">
-  <img src="projeto_desemprego.png" width="700"/>
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
+![Dashboard](projeto_desemprego.png)
 
 
 
