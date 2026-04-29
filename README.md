@@ -24,7 +24,7 @@ O principal objetivo deste projeto é:
 O projeto foi desenvolvido em três fases principais:
 
 ### 1. Recolha de Dados  
-Os dados foram obtidos da fonte :contentReference[oaicite:0]{index=0}, garantindo fiabilidade 
+Os dados foram obtidos da fonte :PorData, garantindo fiabilidade 
 e relevância estatística.
 
 ### 2. Tratamento de Dados  
@@ -35,13 +35,35 @@ Foi utilizada a linguagem Python, com a biblioteca pandas, para:
 - Criação de métricas como o gap percentual  
 
 ### 3. Visualização  
-Os dados tratados foram importados para o :
-contentReference[oaicite:1]{index=1}, onde foi desenvolvido um dashboard com:
+Os dados tratados foram importados para o : Ficheiro csv, onde foi desenvolvido um dashboard com:
 - Gráficos de evolução temporal  
 - Indicadores chave (KPIs)  
 - Comparação entre géneros  
 
 ---
+
+## 📷 Preview
+
+<p align="center">
+  <img src="projeto_desemprego.png" width="700"/>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 📊 Conclusão
 
