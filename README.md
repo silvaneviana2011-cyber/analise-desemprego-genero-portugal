@@ -62,6 +62,12 @@ Os dados tratados foram importados para o : Ficheiro csv, onde foi desenvolvido 
 
 ---
 
+´´´´
+## Resultados principais:
+- Identificação de padrões de desigualdade
+- Evolução temporal do desemprego
+- Insights relevantes para políticas públicas
+
 ## 📊 Conclusão
 
 A análise evidencia que, apesar da redução global do desemprego ao longo dos anos, a taxa de desemprego feminina 
